@@ -1,2 +1,2 @@
 # Python-files
-This repo contains Python program files.
+This repository contains all Python files for my reference, thank you for contributing.
