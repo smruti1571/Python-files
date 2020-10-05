@@ -3,7 +3,7 @@ print("This is a dice stimulator")
 
 x="y"
 while x=="y":
-      num=random.randint(1,3)
+      num=random.randint(1,6)
       if num==1:
           print(" ______")
           print("|      |")
@@ -33,8 +33,7 @@ while x=="y":
           print(" ________")
           print("| O O O  |")
           print("| O O O  |")
-          print("|_O_O_y"
-                "O__|")
+          print("|_O_O_O__|")
 
 
       x=input("Press y to roll again")
